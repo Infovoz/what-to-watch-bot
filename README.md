@@ -87,6 +87,14 @@ GitHub: [github.com/Infovoz](https://github.com/Infovoz)
 
 ---
 
+## ⚖️ Использование
+
+© 2026 Inf0voz
+
+Код можно смотреть, изучать и использовать в некоммерческих целях.
+Для коммерческого использования необходимо получить разрешение автора.
+
+Связаться: [@Inf0voz](https://t.me/Inf0voz)
 <p align="center">
 
 **WhatToWatchBot**
